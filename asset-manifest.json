@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wave-react-app/static/css/main.fea7d01f.css",
+    "main.css": "/wave-react-app/static/css/main.307aaa3c.css",
     "main.js": "/wave-react-app/static/js/main.6551b47c.js",
     "static/js/453.49fa5edd.chunk.js": "/wave-react-app/static/js/453.49fa5edd.chunk.js",
     "index.html": "/wave-react-app/index.html",
-    "main.fea7d01f.css.map": "/wave-react-app/static/css/main.fea7d01f.css.map",
+    "main.307aaa3c.css.map": "/wave-react-app/static/css/main.307aaa3c.css.map",
     "main.6551b47c.js.map": "/wave-react-app/static/js/main.6551b47c.js.map",
     "453.49fa5edd.chunk.js.map": "/wave-react-app/static/js/453.49fa5edd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fea7d01f.css",
+    "static/css/main.307aaa3c.css",
     "static/js/main.6551b47c.js"
   ]
 }
